@@ -794,7 +794,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #101010;
+  background-color: #0B4D7D;
   color: #ffffff;
   padding: 75px 0 10px 0;
 }
@@ -906,7 +906,7 @@ a:focus {
   -ms-flex-pack: center;
   justify-content: center;
   padding: 20px;
-  background-color: #101010;
+  background-color: #0B4D7D;
 }
 
 .footer_section p {
